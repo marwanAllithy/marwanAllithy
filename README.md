@@ -1,7 +1,6 @@
 ## السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ
 
 # About me:
-
 Fullstack and Rust dev, (arabic) youtuber, home-labber, Terminal and nvim wizz, and uses Arch btw.
 
 I love building TUIs and apps focused on performance.
